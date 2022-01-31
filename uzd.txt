@@ -1,0 +1,27 @@
+1. pasikurti nauja projekta inicializuoti git
+
+2. susikurti app.js failiuka, functions.js
+
+2.a inicjuoti npm init
+
+3. functions.js faile aprasyti funkcija kuri gauna stringa 
+ir pavercia ji camelCase (Vienas du => vienasDu)
+makeCamel('pasikurti nauja projekta inicializuoti git') 
+// pasikurtiNaujaProjektaInicializuotiGit
+4. exportouti funckija ir panaudoti ja app.js faile paleidu su node.js
+
+5. prijungti github prie projekto ir nusiusti visa coda.
+
+6. functions.js faile suskurti funkcija kuri pavercia gauta texta i PascalCase
+// toks pat kaip camelCase tik pirma raide dzioji
+
+7. exportuoti funkcija ir panaudoti app js 
+
+8. functions.js sukurti funkcija kuri grazina paduota teksta 'snake case' forma.
+8.1 atlikti 8 uzduoti su paprastu for(arba for of) loop
+
+9. exportuoti funkcija ir panaudoti app.js
+
+10. functions.js faile sukurti funkcija kuri grazina paduota teksta 'kebab case' forma
+
+11. exportuoti ir panaudoti app.js faile 

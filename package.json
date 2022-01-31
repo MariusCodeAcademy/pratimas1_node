@@ -1,0 +1,21 @@
+{
+  "name": "node-1-intro",
+  "version": "1.0.0",
+  "description": "node intro",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "read": "node fs.js",
+    "dev": "node app.js"
+  },
+  "keywords": [
+    "node",
+    "npm"
+  ],
+  "author": "M.K.",
+  "license": "MIT",
+  "dependencies": {
+    "casual": "^1.6.2",
+    "dayjs": "^1.10.7"
+  }
+}

@@ -1,0 +1,6 @@
+Username=James
+
+"Kazkoks stringas yra"
+
+split()
+join()
