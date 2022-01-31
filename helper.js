@@ -13,4 +13,5 @@ function multiply(x, y) {
 module.exports = {
   sum,
   minus,
+  multiply,
 };
